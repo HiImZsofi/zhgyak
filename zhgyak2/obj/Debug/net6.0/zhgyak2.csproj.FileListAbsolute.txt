@@ -1,0 +1,14 @@
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\bin\Debug\net6.0\zhgyak2.exe
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\bin\Debug\net6.0\zhgyak2.deps.json
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\bin\Debug\net6.0\zhgyak2.runtimeconfig.json
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\bin\Debug\net6.0\zhgyak2.dll
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\bin\Debug\net6.0\zhgyak2.pdb
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\obj\Debug\net6.0\zhgyak2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\obj\Debug\net6.0\zhgyak2.AssemblyInfoInputs.cache
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\obj\Debug\net6.0\zhgyak2.AssemblyInfo.cs
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\obj\Debug\net6.0\zhgyak2.csproj.CoreCompileInputs.cache
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\obj\Debug\net6.0\zhgyak2.dll
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\obj\Debug\net6.0\refint\zhgyak2.dll
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\obj\Debug\net6.0\zhgyak2.pdb
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\obj\Debug\net6.0\zhgyak2.genruntimeconfig.cache
+C:\Egyetem\zhgyak2\zhgyak2\zhgyak2\obj\Debug\net6.0\ref\zhgyak2.dll
